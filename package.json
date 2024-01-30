@@ -16,7 +16,8 @@
   "author": "Alban DEFLANDRE <alban.deflandre@wildcodeschool.fr>",
   "license": "ISC",
   "devDependencies": {
-    "@types/jest": "^24.0.15",
+    "@types/jest": "^24.9.1",
+    "@types/mocha": "^10.0.6",
     "jest": "^24.8.0",
     "ts-jest": "^24.0.2",
     "typescript": "^3.5.2"
